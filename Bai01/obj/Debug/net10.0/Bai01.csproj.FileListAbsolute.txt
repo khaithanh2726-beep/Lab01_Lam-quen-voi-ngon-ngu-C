@@ -1,0 +1,15 @@
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\bin\Debug\net10.0\Bai01.exe
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\bin\Debug\net10.0\Bai01.deps.json
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\bin\Debug\net10.0\Bai01.runtimeconfig.json
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\bin\Debug\net10.0\Bai01.dll
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\bin\Debug\net10.0\Bai01.pdb
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\Bai01.AssemblyInfoInputs.cache
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\Bai01.AssemblyInfo.cs
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\Bai01.csproj.CoreCompileInputs.cache
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\Bai01.dll
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\refint\Bai01.dll
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\Bai01.pdb
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\Bai01.genruntimeconfig.cache
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\ref\Bai01.dll
+C:\Study\Code\VS\NNLTCS\Tuan01\Lab01_Lam-quen-voi-ngon-ngu-C\Bai01\obj\Debug\net10.0\Bai01.csproj.Up2Date
